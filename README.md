@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aswin Malla</h1>
 <h3 align="center">A full-stack developer.</h3>
-
+<h4>I'm a full-stack developer with a focus on the PostgreSQL, Express.js, React, and Node.js (PERN) stack.</h4>
+<h5>In addition to my technical skills, I am also a strong communicator and problem-solver. I enjoy collaborating with cross-functional teams and am always seeking to improve my skills and stay up-to-date with the latest technologies. If you are looking for a reliable and skilled fullstack developer, I would love the opportunity to discuss how my skills and experience can benefit your team.</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amt98&label=Profile%20views&color=0e75b6&style=flat" alt="amt98" /> </p>
 
 - 🔭 I’m currently working on [Juicebox(tumblr clone)](https://github.com/AMT98/Juicebox)
