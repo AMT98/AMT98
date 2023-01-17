@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I speak 4 different languages!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: aswinmalla12@gmail.com</h3>
 <p align="left">
 </p>
 
