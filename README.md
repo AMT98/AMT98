@@ -4,7 +4,7 @@
 <h3>In addition to my technical skills, I am also a strong communicator and problem-solver. I enjoy collaborating with cross-functional teams and am always seeking to improve my skills and stay up-to-date with the latest technologies. If you are looking for a reliable and skilled fullstack developer, I would love the opportunity to discuss how my skills and experience can benefit your team.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amt98&label=Profile%20views&color=0e75b6&style=flat" alt="amt98" /> </p>
 
-- 🔭 I’m currently working on [Fitness Tracker (Back-end)](https://github.com/donng24/FitnessTrackerBackend)
+- 🔭 I’m currently working on [Fitness Tracker (Front-end)](https://github.com/AMT98/FitnessTracker_Front-End)
 
 - 🌱 I’m currently learning **PostgreSQL**
 
