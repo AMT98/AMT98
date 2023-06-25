@@ -1,16 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amt98&label=Profile%20views&color=0e75b6&style=flat" alt="amt98" /> </p>
 
 <h1 align="center" ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b> I'm Aswin Malla </b></h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=6366F1&size=30&center=true&vCenter=true&width=600&height=120&lines=Software+Developer;Problem+solver;Web+developer;Passionate+Learner;Adaptable+multitasker;Analytical+thinker"></a>
 </p>
-
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 	
 ## **About me 🧑🏽‍💻**
@@ -53,10 +47,6 @@
    ![image](https://github.com/AMT98/AMT98/assets/113475440/f31a78ce-1653-4586-b3c7-0c9c37cef77f)
    ![image](https://github.com/AMT98/AMT98/assets/113475440/ff0933f3-f5c4-4cc2-82da-fee7a76cfa87)
 
-
-
-
-<br>
 <br>
 
 - **Softwares and Tools**:
