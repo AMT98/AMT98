@@ -1,18 +1,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amt98&label=Profile%20views&color=0e75b6&style=flat" alt="amt98" /> </p>
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b> I'm Aswin Malla </b></h1>
+<h1 align="center" ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b> I'm Aswin Malla </b></h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=indigo&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Problem+solver;Web+developer;Passionate+Learner;Adaptable+multitasker;Analytical+thinker"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=6366F1&size=30&center=true&vCenter=true&width=600&height=120&lines=Software+Developer;Problem+solver;Web+developer;Passionate+Learner;Adaptable+multitasker;Analytical+thinker"></a>
 </p>
 
 
 <br>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me 🧑🏽‍💻**
+## **About me 🧑🏽‍💻**
 
 <br>
 
@@ -66,12 +67,7 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![image](https://github.com/AMT98/AMT98/assets/113475440/4d01a277-46cb-4bbd-879d-2a187aff0e37)
 <br>
-
-</p>
-
-<br>
-<br>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 -----
 
 <br>
@@ -83,8 +79,7 @@
 <div align="center">
 
 <a href="https://github.com/AMT98/">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=AMT98&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="350"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AMT98&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="355"  alt="AMT98"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AMT98&show_icons=true&locale=en&layout=compact&line_height=20&title_color=6366F1&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="355"  alt="AMT98"/>
 
 </a>
 </div>
