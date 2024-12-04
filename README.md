@@ -65,6 +65,7 @@
 <div align="center">
 
 <a href="https://github.com/AMT98/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AMT98&show_icons=true&locale=en&layout=compact&line_height=20&title_color=6366F1&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="355"  alt="AMT98"/>
 
 </a>
 </div>
