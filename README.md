@@ -7,14 +7,13 @@
 </p>
 
 	
-## **About me 🧑🏽‍💻**
+## **About Me 🧑🏽‍💻**
 
-<br>
+- 🌐 Full-stack developer passionate about building impactful web and mobile applications.  
+- 💪 Fitness enthusiast who loves staying active and challenging personal limits.  
+- 📚 Currently diving into the world of Ruby to expand my tech stack.  
+- 🌟 Explore my projects and journey on my [personal website](https://www.aswinmalla.com).  
 
-- A full-stack developer
-- I love working out
-- I am currently learning C#
-- Personal website [link](https://www.aswinmalla.com)
 
 <br><br>
 
